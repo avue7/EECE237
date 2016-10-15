@@ -1,0 +1,23 @@
+The 'Blinky' project is a simple demo program for
+ST 'STM32F303VC' microcontroller using ST 'STM32F3-Discovery' Evaluation Board.
+Compliant to Cortex Microcontroller Software Interface Standard (CMSIS).
+
+Example functionality:
+ - Clock Settings:
+   - XTAL (ST-Link) =    8.00 MHz
+   - SYSCLK         =   72.00 MHz
+
+ - 8 LEDs blink with a fixed speed, determined by SysTick Timer
+     working in interrupt mode
+ - if Button USER is pressed all LEDs are lit.
+
+
+
+The Blinky program is available in different targets:
+
+  STM32F303 Flash:    configured for on-chip Flash
+                      (used for production or target debugging)
+
+  STM32F303 RAM:      configured for on-chip RAM
+                      (used for target debugging)
+

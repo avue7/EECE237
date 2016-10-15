@@ -1,0 +1,47 @@
+Dependencies for Project 'Blinky', Target 'STM32F303 Flash': (DO NOT MODIFY !)
+F (.\Blinky.c)(0x56C5239D)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Users\athit\Desktop\EECE 237\Blinky_mini\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F303xC-o .\flash\blinky.o --omf_browse .\flash\blinky.crf --depend .\flash\blinky.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f3xx.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f303xc.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x562689FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569ECB3A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\system_stm32f3xx.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board\Board_LED.h)(0x53BBF542)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board\Board_Buttons.h)(0x53BBF542)
+F (.\Abstract.txt)(0x56C5239D)()
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Boards\ST\STM32F3-Discovery\Common\Buttons_STM32F3-Discovery.c)(0x54E24B0C)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Users\athit\Desktop\EECE 237\Blinky_mini\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F303xC-o .\flash\buttons_stm32f3-discovery.o --omf_browse .\flash\buttons_stm32f3-discovery.crf --depend .\flash\buttons_stm32f3-discovery.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f3xx.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f303xc.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x562689FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569ECB3A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\system_stm32f3xx.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board\Board_Buttons.h)(0x53BBF542)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Boards\ST\STM32F3-Discovery\Common\LED_STM32F3-Discovery.c)(0x54E24B0C)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Users\athit\Desktop\EECE 237\Blinky_mini\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F303xC-o .\flash\led_stm32f3-discovery.o --omf_browse .\flash\led_stm32f3-discovery.crf --depend .\flash\led_stm32f3-discovery.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f3xx.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f303xc.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x562689FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569ECB3A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\system_stm32f3xx.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board\Board_LED.h)(0x53BBF542)
+F (RTE\Device\STM32F303VC\startup_stm32f303xc.s)(0x56C5239D)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I "C:\Users\athit\Desktop\EECE 237\Blinky_mini\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include--pd "__UVISION_VERSION SETA 518" --pd "_RTE_ SETA 1" --pd "STM32F303xC SETA 1"--list .\flash\startup_stm32f303xc.lst --xref -o .\flash\startup_stm32f303xc.o --depend .\flash\startup_stm32f303xc.d)
+F (RTE\Device\STM32F303VC\system_stm32f3xx.c)(0x56C5239D)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I "C:\Users\athit\Desktop\EECE 237\Blinky_mini\RTE"-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.0.0\Board-I C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F303xC-o .\flash\system_stm32f3xx.o --omf_browse .\flash\system_stm32f3xx.crf --depend .\flash\system_stm32f3xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f3xx.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\stm32f303xc.h)(0x54E24B0C)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h)(0x562689FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x569ECB3A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h)(0x56267640)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F3xx_DFP\1.3.0\Device\Include\system_stm32f3xx.h)(0x54E24B0C)
